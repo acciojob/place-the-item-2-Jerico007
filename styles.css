@@ -1,2 +1,25 @@
 
 /* Your CSS Code here. */
+.holder{
+	width:220px;
+	display:flex;
+	flex-direction:row;
+	justify-content:left;
+}
+.item-3{
+	width:50%;
+	height:50%;
+	background-color:green;
+}
+
+.item-1{
+	width:50%;
+	height:50%;
+	background-color:red;
+}
+.item-2{
+	width:50%;
+	height:50%;
+	background-color:purple;
+}
+
